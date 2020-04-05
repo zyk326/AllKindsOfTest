@@ -1,3 +1,3 @@
 # AllKindsOfTest
 learning rode
-i wana know how do it
+i wana know how do it,ok
