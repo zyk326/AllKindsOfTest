@@ -1,4 +1,3 @@
 i love u 
 我爱你
-在master修改了a.txt
-
+使用了vimdiff修改冲突
